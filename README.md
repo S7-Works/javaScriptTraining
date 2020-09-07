@@ -1,0 +1,2 @@
+# javaScriptTraining
+JavaScript Training Project
