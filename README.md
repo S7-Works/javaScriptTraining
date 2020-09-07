@@ -1,2 +1,3 @@
 # javaScriptTraining
+
 JavaScript Training Project
